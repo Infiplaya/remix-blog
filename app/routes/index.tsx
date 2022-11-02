@@ -39,15 +39,15 @@ export default function Index() {
           </Link>
           <ul className="flex gap-3 mt-10 text-lg self-center">
             <a href={"https://psobaniec.vercel.app/"}>
-              <li className="text-indigo-600 hover:text-indigo-700">
+              <li className="text-indigo-400 hover:text-indigo-500">
                 My Website
               </li>
             </a>
             <a href={"https://github.com/Infiplaya"}>
-              <li className="text-indigo-600 hover:text-indigo-700">Github</li>
+              <li className="text-indigo-400 hover:text-indigo-500">Github</li>
             </a>
             <a href={"https://www.linkedin.com/in/psobaniec09/"}>
-              <li className="text-indigo-600 hover:text-indigo-700">
+              <li className="text-indigo-400 hover:text-indigo-500">
                 Linkedin
               </li>
             </a>
